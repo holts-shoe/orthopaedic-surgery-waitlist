@@ -1,0 +1,23 @@
+{
+  "name": "orthopaedic-surgery-waitlist",
+  "version": "1.0.0",
+  "description": "A public waitlist for Orthopedic Surgery providers* in Ontario*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holts-shoe/orthopaedic-surgery-waitlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holts-shoe/orthopaedic-surgery-waitlist/issues"
+  },
+  "homepage": "https://github.com/holts-shoe/orthopaedic-surgery-waitlist#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "request": "^2.88.2"
+  }
+}

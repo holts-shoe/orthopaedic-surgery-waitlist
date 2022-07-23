@@ -1,0 +1,10 @@
+https://or.hqontario.ca/DiagnosticImaging/wtdata/EN/pediatric/44.2311717/-76.4859544/1/CT/1
+	kids ct scan
+https://or.hqontario.ca/Surgical/wtsurgicaldata/EN/adult/44.2311717/-76.4859544/2/2/2/1
+	adult surgery hip replacement
+https://or.hqontario.ca/Surgical/wtsurgicaldata/EN/adult/44.2311717/-76.4859544/1/120/2/1
+	adult surgery hip all
+https://or.hqontario.ca/Surgical/wtsurgicaldata/EN/adult/44.2311717/-76.4859544/1/74/2/1
+	adult ankle surgery
+https://or.hqontario.ca/Surgical/wtsurgicaldata/EN/adult/44.2311717/-76.4859544/1/2/2/1
+	adult surgery hip replacement
